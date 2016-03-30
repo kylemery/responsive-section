@@ -30,7 +30,7 @@ body {
 
 img {
   display: inline-block;
-  max-width: 6rem;
+  max-width: 8rem;
 }
 
 .img-flex {
@@ -56,3 +56,5 @@ p {
 .section-body {
   padding: 1rem;
 }
+
+@media screen only and (min-width:28em)
